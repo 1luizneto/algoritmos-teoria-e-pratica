@@ -7,8 +7,7 @@ Cada capitulo do livro aborda um algoritmo com explicações e detalhes de forma
 ## Sumário
 
 ### Introdução:
-
-* '1' [1 Papel dos algoritmos na computação] (src
+* `1` [O papel dos algoritmos na computação](Introcução/O-papel-dos-algoritmos/README.md)
  <a href="#1">1 Papel dos algoritmos na computação</a> <br>
  <a href="#1.1">_1.1 Algoritmos_</a> <br>
  <a href="1.2">_1.2 Algoritmos como tecnologia_</a> <br> 
