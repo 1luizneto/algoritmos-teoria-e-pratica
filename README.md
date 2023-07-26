@@ -7,14 +7,14 @@ Cada capitulo do livro aborda um algoritmo com explicações e detalhes de forma
 ## Sumário
 
 ### Introdução:
- <a href="#papel">1. Papel dos algoritmos na computação</a> <br>
+ <a href="#papel">1 Papel dos algoritmos na computação</a> <br>
  <a href="#Exercícios">_1.1 Exercícios_</a> <br>
- <a href="#Exercícios">_1.2 Exercícios_</a> <br>
- <a href="#objetivo">2. Dando a partida</a> <br>
- <a href="#Exercícios">_2.1 Exercícios_</a> <br>
- <a href="#Exercícios">_2.2 Exercícios_</a> <br>
- <a href="#Exercícios">_2.3 Exercícios_</a> <br>
- <a href="#jogabilidade">3. Crescimento de funções</a> <br>
+ <a href="#Exercícios">_1.2 Exercícios_</a> <br> 
+ <a href="#objetivo">2 Dando a partida</a> <br>
+ <a href="#Exercícios">_2.1 Ordenação por inserção_</a> <br>
+ <a href="#Exercícios">_2.2 Análise de algoritmos_</a> <br>
+ <a href="#Exercícios">_2.3 Projeto de algoritmos_</a> <br>
+ <a href="#jogabilidade">3 Crescimento de funções</a> <br>
 
 ##
 
