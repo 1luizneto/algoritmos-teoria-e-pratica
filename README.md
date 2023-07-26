@@ -4,6 +4,8 @@ Eu resolvi criar esse repositório para colocar um resumo feito por mim e suas q
 ##
 Cada capitulo do livro aborda um algoritmo com explicações e detalhes de forma simples para que possa ser replicado em qualquer linguagem, mas eu optei por usar C++.
 
+No lugar dos pseudos códigos, eu coloquei um código implementado por mim em C++!!
+
 ## Sumário
 
 ### Introdução:
