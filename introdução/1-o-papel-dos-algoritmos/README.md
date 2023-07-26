@@ -2,6 +2,8 @@
 
 ###  `<-` [Voltar ao sumário](https://github.com/1luizneto/algoritmos-teoria-e-pratica/tree/main)
 
+##
+
 ## 1.1 Algoritmos
 
 Algoritmo de forma resumida e informal é qualquer procedimento computacional que recebe dados de entrada e retorna dados de saida, executando ações no meio do caminho.
