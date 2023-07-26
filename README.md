@@ -1,11 +1,6 @@
 # Algoritmos Teoria e Prática
 Eu resolvi criar esse repositório para colocar um resumo feito por mim e suas questões resolvidas em C++.
 
-## 
-[Link MIT Press](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
-
-> Antes de existir computadores já existiam algoritmos. Mas, agora que temos computadores, há ainda mais algoritmos e esses estão o coração da computação.
-
 ##
 Cada capitulo do livro aborda um algoritmo com explicações e detalhes de forma simples para que possa ser replicado em qualquer linguagem, mas eu optei por usar C++.
 
@@ -13,11 +8,15 @@ Cada capitulo do livro aborda um algoritmo com explicações e detalhes de forma
 
 ### Introdução:
  <a href="#papel">1. Papel dos algoritmos na computação</a> <br>
- <a href="#Exercícios">1. Exercícios</a> <br>
+ <a href="#Exercícios">_1.1 Exercícios_</a> <br>
+ <a href="#Exercícios">_1.2 Exercícios_</a> <br>
  <a href="#objetivo">2. Dando a partida</a> <br>
+ <a href="#Exercícios">_2.1 Exercícios_</a> <br>
+ <a href="#Exercícios">_2.2 Exercícios_</a> <br>
+ <a href="#Exercícios">_2.3 Exercícios_</a> <br>
  <a href="#jogabilidade">3. Crescimento de funções</a> <br>
 
- ##
+##
 
 ## Papel dos algoritmos na computação
 
