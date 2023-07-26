@@ -7,18 +7,24 @@ Cada capitulo do livro aborda um algoritmo com explicações e detalhes de forma
 ## Sumário
 
 ### Introdução:
- <a href="#papel">1 Papel dos algoritmos na computação</a> <br>
- <a href="#Exercícios">_1.1 Exercícios_</a> <br>
- <a href="#Exercícios">_1.2 Exercícios_</a> <br> 
- <a href="#objetivo">2 Dando a partida</a> <br>
- <a href="#Exercícios">_2.1 Ordenação por inserção_</a> <br>
- <a href="#Exercícios">_2.2 Análise de algoritmos_</a> <br>
- <a href="#Exercícios">_2.3 Projeto de algoritmos_</a> <br>
- <a href="#jogabilidade">3 Crescimento de funções</a> <br>
+ <a href="#1">1 Papel dos algoritmos na computação</a> <br>
+ <a href="#1.1">_1.1 Algoritmos_</a> <br>
+ <a href="1.2">_1.2 Algoritmos como tecnologia_</a> <br> 
+ <a href="#2">2 Dando a partida</a> <br>
+ <a href="#2.1">_2.1 Ordenação por inserção_</a> <br>   
+ <a href="#2.2">_2.2 Análise de algoritmos_</a> <br>
+ <a href="#2.3">_2.3 Projeto de algoritmos_</a> <br>
+ <a href="#3">3 Crescimento de funções</a> <br>
 
 ##
+<br>
+<br>
+<br>
 
-## Papel dos algoritmos na computação
+
+## 1 -> Papel dos algoritmos na computação
+
+### 1.1 Algoritmos
 
 Algoritmo de forma resumida e informal é qualquer procedimento computacional que recebe dados de entrada e retorna dados de saida, executando ações no meio do caminho.
 
@@ -47,8 +53,6 @@ Dentro da área de algoritmos existem alguns algoritmos chamados de NP-Completos
 Os NP-Completos não são impossiveis ou eternamente ineficientes, mas enquanto ninguém encontra uma solução eles são uma "magia negra" dos algoritmos.
 
 [Explicação NP completo em artigo](https://segredo.dev/problemas-np/)
-
-##
 
 ## Exercícios 1.1
 
@@ -85,7 +89,7 @@ Aproximadamente: Determinar grau de similaridade com peso entre produtos ou cate
 
 ##
 
-### Algoritmos como tecnologia
+### 1.2 Algoritmos como tecnologia
 
 Por mais que os computadores fossem infinitamente poderosos os algoritmos ainda seriam úteis pela possibilidade de traçar e entregar resultados com previsibilidade. Assim poderia demonstrar que tal solução entrega a resposta correta.
 
@@ -118,7 +122,7 @@ R: GPS em tempo real. Resumidamente o algoritmo de menor distância precisa fica
 
 ##
 
-## Dando a partida
+## 2 Dando a partida
 
 Insertion Sort
 
@@ -178,7 +182,7 @@ Escreva o pseudocódigo para busca linear, que faça a varredura da sequência, 
 
 ##
 
-### Análise de algoritmos
+### 2.2 Análise de algoritmos
 
 Analisar um algoritmo é prever quanto de recursos um algoritmo necessita para ser executado.
 
@@ -210,7 +214,7 @@ Pior caso busca linear: Θ(n), pode ser necessário ter que passar por todos os 
 
 ##
 
-### Projeto de algoritmos
+### 2.3 Projeto de algoritmos
 
 Divisão e conquista: Muitos algoritmos são recursivos, para resolver um problemas eles chamam eles mesmos recursivamente uma ou mais vezes para lidar com subproblemas. Normalmente esses algoritmos seguem uma abordagem de divisão e conquista desmembrando o problema em vários subproblemas menores semelhantes ao original.
 
@@ -233,7 +237,7 @@ Divisão e conquista: Muitos algoritmos são recursivos, para resolver um proble
 
 ##
 
-## Crescimento de funções
+## 3 Crescimento de funções
 
 A ordem de crescimento de tempo de execução de um algoritmo nos permite caracterizar a eficiência de um algoritmo e também nos permite comparar o desempenho de um algoritmo em relação a outro. Quando analisamos tamanhos de entrada estamos estudando a eficiência _assintótica_ do algoritmo. Ou seja, estamos preocupados em como o tempo do algoritmo aumenta de acordo com o tamanho de entrada no limite.
 
